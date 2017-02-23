@@ -11,7 +11,7 @@ https://github.com/nanobox-io/nanobox-adapter-aws
 **Contributors**  
 [@jedgalbraith](https://github.com/jedgalbraith)
 
-### Digital Ocean
+### DigitalOcean
 Nanobox officially supports deploying apps to [DigitalOcean](https://www.digitalocean.com/). You can select DigitalOcean as a provider in the Nanobox Dashboard.
 
 **Adapter Repo:**  
