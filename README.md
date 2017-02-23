@@ -1,4 +1,4 @@
-# Nanbox Hosting Provider Integrations
+# Nanobox Hosting Provider Integrations
 
 ## Official Integrations
 
