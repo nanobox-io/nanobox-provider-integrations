@@ -9,7 +9,7 @@ Nanobox officially supports deploying apps to [Amazon Web Services (AWS)](https:
 https://github.com/nanobox-io/nanobox-adapter-aws
 
 **Contributors**  
-@jedgalbraith
+[@jedgalbraith](https://github.com/jedgalbraith)
 
 ### Digital Ocean
 Nanobox officially supports deploying apps to [DigitalOcean](https://www.digitalocean.com/). You can select DigitalOcean as a provider in the Nanobox Dashboard.
@@ -18,7 +18,7 @@ Nanobox officially supports deploying apps to [DigitalOcean](https://www.digital
 https://github.com/nanobox-io/nanobox-adapter-digitalocean
 
 **Contributors**  
-@tylerflint
+[@tylerflint](https://github.com/tylerflint)
 
 ## Community Integrations
 
@@ -35,7 +35,7 @@ https://nanoprox.legenex.com/
 https://github.com/danhunsaker/nanobox-adapter-proxmox
 
 **Contributors**  
-@danhunsaker
+[@danhunsaker](https://github.com/danhunsaker)
 
 ### Google Cloud *(In Progress)*
 This integration is in the works but will allow Nanobox users to deploy to [Google Cloud](https://cloud.google.com/).
@@ -50,4 +50,4 @@ This integration is in the works but will allow Nanobox users to deploy to [Goog
 https://github.com/jeffgodwyll/nanobox-googlecloud-adapter
 
 **Contributors**  
-@jeffgodwyll
+[@jeffgodwyll](https://github.com/jeffgodwyll)
