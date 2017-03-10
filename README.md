@@ -26,10 +26,10 @@ https://github.com/nanobox-io/nanobox-adapter-digitalocean
 [Proxmox](https://www.proxmox.com/en/) is an open source cloud solution that allows you to build and manage your own virtual cloud. Proxmox can be used as a custom provider in the Nanobox dashboard.
 
 **Provider Endpoint**  
-https://nanoprox.nanoapp.io/api/v1/
+https://adapter-proxmox.nanoapp.io/api/v1/
 
 **Documentation**  
-https://nanoprox.nanoapp.io/
+https://adapter-proxmox.nanoapp.io/
 
 **Adapter Repo**  
 https://github.com/danhunsaker/nanobox-adapter-proxmox
