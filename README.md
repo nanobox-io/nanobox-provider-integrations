@@ -14,11 +14,20 @@ https://github.com/nanobox-io/nanobox-adapter-aws
 ### DigitalOcean
 Nanobox officially supports deploying apps to [DigitalOcean](https://www.digitalocean.com/). You can select DigitalOcean as a provider in the Nanobox Dashboard.
 
-**Adapter Repo:**  
+**Adapter Repo:**  
 https://github.com/nanobox-io/nanobox-adapter-digitalocean
 
-**Contributors**  
+**Contributors**  
 [@tylerflint](https://github.com/tylerflint)
+
+### Linode *(In Progress)*
+Nanobox is building out official support for deploying apps to [Linode](https://www.linode.com/). You will be able to select Linode as a provider in the Nanobox Dashboard.
+
+**Adapter Repo:**  
+https://github.com/nanobox-io/nanobox-adapter-linode
+
+**Contributors**  
+[@jedgalbraith](https://github.com/jedgalbraith), [@lyondhill](https://github.com/lyondhill)
 
 ## Community Integrations
 
