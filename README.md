@@ -24,13 +24,13 @@ Nanobox officially supports deploying apps to [Linode](https://www.linode.com/).
 Nanobox is testing official support for deploying apps to [Linode](https://cloud.google.com/compute/). You can select Linode as a provider in the Nanobox Dashboard.
 
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
-- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerfline)
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
 
 ### Vultr _(Beta)_
 Nanobox is testing official support for deploying apps to [Vultr](https://www.vultr.com/). You can select Vultr as a provider in the Nanobox Dashboard.
 
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
-- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerfline)
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
 
 
 ## Community Integrations
