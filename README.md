@@ -14,11 +14,24 @@ Nanobox officially supports deploying apps to [DigitalOcean](https://www.digital
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-digitalocean
 - **Contributors**: [@tylerflint](https://github.com/tylerflint)
 
-### Linode _(Beta)_
-Nanobox is testing official support for deploying apps to [Linode](https://www.linode.com/). You can select Linode as a provider in the Nanobox Dashboard.
+### Linode
+Nanobox officially supports deploying apps to [Linode](https://www.linode.com/). You can select Linode as a provider in the Nanobox Dashboard.
 
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-linode
 - **Contributors**: [@jedgalbraith](https://github.com/jedgalbraith), [@lyondhill](https://github.com/lyondhill)
+
+### Google Compute (GCP) _(Beta)_
+Nanobox is testing official support for deploying apps to [Linode](https://cloud.google.com/compute/). You can select Linode as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerfline)
+
+### Vultr _(Beta)_
+Nanobox is testing official support for deploying apps to [Vultr](https://www.vultr.com/). You can select Vultr as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerfline)
+
 
 ## Community Integrations
 
