@@ -20,8 +20,8 @@ Nanobox officially supports deploying apps to [Linode](https://www.linode.com/).
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-linode
 - **Contributors**: [@jedgalbraith](https://github.com/jedgalbraith), [@lyondhill](https://github.com/lyondhill)
 
-### Google Compute (GCP) _(Beta)_
-Nanobox is testing official support for deploying apps to [Linode](https://cloud.google.com/compute/). You can select Linode as a provider in the Nanobox Dashboard.
+### Google Compute Engine (GCE) _(Beta)_
+Nanobox is testing official support for deploying apps to [Google Compute Engine](https://cloud.google.com/compute/). You can select Google Compute Engine as a provider in the Nanobox Dashboard.
 
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
 - **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
@@ -43,15 +43,15 @@ Nanobox is testing official support for deploying apps to [Vultr](https://www.vu
 - **Adapter Repo**: https://github.com/danhunsaker/nanobox-adapter-proxmox
 - **Contributors**: [@danhunsaker](https://github.com/danhunsaker)
 
-### Single Server
-In those cases where you have hosting with a provider that isn't listed here, but still want to deploy with Nanobox, install this adapter on that server, following the instructions in the documentation, and then connect directly to it when adding it as your provider. Single Server can be used as a custom provider in the Nanobox dashboard.
+### Ubuntu Server (Single/Standalone)
+In those cases where you have hosting with a provider that isn't listed here, but still want to deploy with Nanobox, install this adapter on that server, following the instructions in the documentation, and then connect directly to it when adding it as your provider. The Ubuntu Server provider can be used as a custom provider in the Nanobox dashboard.
 
 - **Provider Endpoint**: https://{your-server-ip}:8000/ _(this adapter is installed on the same server you plan to deploy to)_
-- **Documentation**: https://github.com/torfs-ict/nanobox-adapter-single-server/blob/master/README.md
-- **Adapter Repo**: https://github.com/torfs-ict/nanobox-adapter-single-server
+- **Documentation**: https://github.com/torfs-ict/nanobox-adapter-ubuntu/blob/master/README.md
+- **Adapter Repo**: https://github.com/torfs-ict/nanobox-adapter-ubuntu
 - **Contributors**: [@torfs-ict](https://github.com/torfs-ict)
 
-### Google Cloud _(In Progress)_
+### Google Cloud _(Deprecated)_
 This integration is in the works but will allow Nanobox users to deploy to [Google Cloud](https://cloud.google.com/).
 
 - **Provider Endpoint**: *Coming*
