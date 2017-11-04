@@ -6,7 +6,7 @@
 Nanobox officially supports deploying apps to [Amazon Web Services (AWS)](https://aws.amazon.com/). You can select AWS as a provider in the Nanobox Dashboard.
 
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-aws
-- **Contributors**: [@jedgalbraith](https://github.com/jedgalbraith)
+- **Contributors**: [@jedgalbraith](https://github.com/jedgalbraith), [@tylerflint](https://github.com/tylerflint)
 
 ### DigitalOcean
 Nanobox officially supports deploying apps to [DigitalOcean](https://www.digitalocean.com/). You can select DigitalOcean as a provider in the Nanobox Dashboard.
@@ -20,8 +20,50 @@ Nanobox officially supports deploying apps to [Linode](https://www.linode.com/).
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-linode
 - **Contributors**: [@jedgalbraith](https://github.com/jedgalbraith), [@lyondhill](https://github.com/lyondhill)
 
+<!-- ### Amazon AWS EC2 _(Beta)_
+Nanobox is testing official support for deploying apps to [Amazon AWS EC2](https://ec2.amazonaws.com/) via Libcloud. You can select Amazon AWS EC2 as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint) -->
+
+### Microsoft Azure _(Beta)_
+Nanobox is testing official support for deploying apps to [Microsoft Azure](https://azure.microsoft.com/). You can select Microsoft Azure as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
+
+<!-- ### DigitalOcean _(Beta)_
+Nanobox is testing official support for deploying apps to [DigitalOcean](https://www.digitalocean.com/). You can select DigitalOcean as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint) -->
+
 ### Google Compute Engine (GCE) _(Beta)_
 Nanobox is testing official support for deploying apps to [Google Compute Engine](https://cloud.google.com/compute/). You can select Google Compute Engine as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
+
+<!-- ### Linode _(Beta)_
+Nanobox is testing official support for deploying apps to [Linode](https://www.linode.com/). You can select Linode as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint) -->
+
+### OVH _(Beta)_
+Nanobox is testing official support for deploying apps to [OVH](https://www.ovh.com/). You can select OVH as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
+
+### Packet _(Beta)_
+Nanobox is testing official support for deploying apps to [Packet](https://packet.io/). You can select Packet as a provider in the Nanobox Dashboard.
+
+- **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
+- **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
+
+### Scaleway _(Beta)_
+Nanobox is testing official support for deploying apps to [Scaleway](https://www.scaleway.com/). You can select Scaleway as a provider in the Nanobox Dashboard.
 
 - **Adapter Repo**: https://github.com/nanobox-io/nanobox-adapter-libcloud
 - **Contributors**: [@danhunsaker](https://github.com/danhunsaker), [@jjkester](https://github.com/jjkester), [@tylerflint](https://github.com/tylerflint)
@@ -52,7 +94,7 @@ In those cases where you have hosting with a provider that isn't listed here, bu
 - **Contributors**: [@torfs-ict](https://github.com/torfs-ict)
 
 ### Google Cloud _(Deprecated)_
-This integration is in the works but will allow Nanobox users to deploy to [Google Cloud](https://cloud.google.com/).
+This integration is incomplete, but would allow Nanobox users to deploy to [Google Cloud](https://cloud.google.com/).
 
 - **Provider Endpoint**: *Coming*
 - **Documentation**: *Coming*
